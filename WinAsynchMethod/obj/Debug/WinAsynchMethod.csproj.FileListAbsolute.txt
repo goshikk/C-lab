@@ -1,0 +1,11 @@
+C:\Users\ossob\source\repos\WinAsynchMethod\bin\Debug\WinAsynchMethod.exe.config
+C:\Users\ossob\source\repos\WinAsynchMethod\bin\Debug\WinAsynchMethod.exe
+C:\Users\ossob\source\repos\WinAsynchMethod\bin\Debug\WinAsynchMethod.pdb
+C:\Users\ossob\source\repos\WinAsynchMethod\obj\Debug\WinAsynchMethod.csproj.AssemblyReference.cache
+C:\Users\ossob\source\repos\WinAsynchMethod\obj\Debug\WinAsynchMethod.csproj.SuggestedBindingRedirects.cache
+C:\Users\ossob\source\repos\WinAsynchMethod\obj\Debug\WinAsynchMethod.Form1.resources
+C:\Users\ossob\source\repos\WinAsynchMethod\obj\Debug\WinAsynchMethod.Properties.Resources.resources
+C:\Users\ossob\source\repos\WinAsynchMethod\obj\Debug\WinAsynchMethod.csproj.GenerateResource.cache
+C:\Users\ossob\source\repos\WinAsynchMethod\obj\Debug\WinAsynchMethod.csproj.CoreCompileInputs.cache
+C:\Users\ossob\source\repos\WinAsynchMethod\obj\Debug\WinAsynchMethod.exe
+C:\Users\ossob\source\repos\WinAsynchMethod\obj\Debug\WinAsynchMethod.pdb
