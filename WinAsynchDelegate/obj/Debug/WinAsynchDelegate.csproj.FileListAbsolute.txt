@@ -1,0 +1,6 @@
+C:\Users\ossob\source\repos\WinAsynchDelegate\obj\Debug\WinAsynchDelegate.csproj.AssemblyReference.cache
+C:\Users\ossob\source\repos\WinAsynchDelegate\obj\Debug\WinAsynchDelegate.csproj.SuggestedBindingRedirects.cache
+C:\Users\ossob\source\repos\WinAsynchDelegate\obj\Debug\WinAsynchDelegate.Form1.resources
+C:\Users\ossob\source\repos\WinAsynchDelegate\obj\Debug\WinAsynchDelegate.Properties.Resources.resources
+C:\Users\ossob\source\repos\WinAsynchDelegate\obj\Debug\WinAsynchDelegate.csproj.GenerateResource.cache
+C:\Users\ossob\source\repos\WinAsynchDelegate\obj\Debug\WinAsynchDelegate.csproj.CoreCompileInputs.cache
