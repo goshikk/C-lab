@@ -1,0 +1,12 @@
+C:\Users\ossob\source\repos\WinPrint1\bin\Debug\WinPrint1.exe.config
+C:\Users\ossob\source\repos\WinPrint1\bin\Debug\WinPrint1.exe
+C:\Users\ossob\source\repos\WinPrint1\bin\Debug\WinPrint1.pdb
+C:\Users\ossob\source\repos\WinPrint1\obj\Debug\WinPrint1.csproj.AssemblyReference.cache
+C:\Users\ossob\source\repos\WinPrint1\obj\Debug\WinPrint1.csproj.SuggestedBindingRedirects.cache
+C:\Users\ossob\source\repos\WinPrint1\obj\Debug\WinPrint1.Form1.resources
+C:\Users\ossob\source\repos\WinPrint1\obj\Debug\WinPrint1.Properties.Resources.resources
+C:\Users\ossob\source\repos\WinPrint1\obj\Debug\WinPrint1.csproj.GenerateResource.cache
+C:\Users\ossob\source\repos\WinPrint1\obj\Debug\WinPrint1.csproj.CoreCompileInputs.cache
+C:\Users\ossob\source\repos\WinPrint1\obj\Debug\WinPrint1.exe
+C:\Users\ossob\source\repos\WinPrint1\obj\Debug\WinPrint1.pdb
+C:\Users\ossob\source\repos\WinPrint1\obj\Debug\WinPrint1.Form2.resources
