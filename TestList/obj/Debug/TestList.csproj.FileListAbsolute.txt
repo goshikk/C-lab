@@ -1,0 +1,11 @@
+C:\Users\ossob\source\repos\TestList\bin\Debug\TestList.exe.config
+C:\Users\ossob\source\repos\TestList\bin\Debug\TestList.exe
+C:\Users\ossob\source\repos\TestList\bin\Debug\TestList.pdb
+C:\Users\ossob\source\repos\TestList\obj\Debug\TestList.csproj.AssemblyReference.cache
+C:\Users\ossob\source\repos\TestList\obj\Debug\TestList.csproj.SuggestedBindingRedirects.cache
+C:\Users\ossob\source\repos\TestList\obj\Debug\TestList.Form1.resources
+C:\Users\ossob\source\repos\TestList\obj\Debug\TestList.Properties.Resources.resources
+C:\Users\ossob\source\repos\TestList\obj\Debug\TestList.csproj.GenerateResource.cache
+C:\Users\ossob\source\repos\TestList\obj\Debug\TestList.csproj.CoreCompileInputs.cache
+C:\Users\ossob\source\repos\TestList\obj\Debug\TestList.exe
+C:\Users\ossob\source\repos\TestList\obj\Debug\TestList.pdb
