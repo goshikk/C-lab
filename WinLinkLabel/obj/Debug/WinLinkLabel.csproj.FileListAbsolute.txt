@@ -1,0 +1,12 @@
+C:\Users\ossob\source\repos\WinLinkLabel\bin\Debug\WinLinkLabel.exe.config
+C:\Users\ossob\source\repos\WinLinkLabel\bin\Debug\WinLinkLabel.exe
+C:\Users\ossob\source\repos\WinLinkLabel\bin\Debug\WinLinkLabel.pdb
+C:\Users\ossob\source\repos\WinLinkLabel\obj\Debug\WinLinkLabel.csproj.AssemblyReference.cache
+C:\Users\ossob\source\repos\WinLinkLabel\obj\Debug\WinLinkLabel.csproj.SuggestedBindingRedirects.cache
+C:\Users\ossob\source\repos\WinLinkLabel\obj\Debug\WinLinkLabel.Form1.resources
+C:\Users\ossob\source\repos\WinLinkLabel\obj\Debug\WinLinkLabel.Form2.resources
+C:\Users\ossob\source\repos\WinLinkLabel\obj\Debug\WinLinkLabel.Properties.Resources.resources
+C:\Users\ossob\source\repos\WinLinkLabel\obj\Debug\WinLinkLabel.csproj.GenerateResource.cache
+C:\Users\ossob\source\repos\WinLinkLabel\obj\Debug\WinLinkLabel.csproj.CoreCompileInputs.cache
+C:\Users\ossob\source\repos\WinLinkLabel\obj\Debug\WinLinkLabel.exe
+C:\Users\ossob\source\repos\WinLinkLabel\obj\Debug\WinLinkLabel.pdb
